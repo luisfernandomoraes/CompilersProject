@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication", "WpfApplication\WpfApplication.csproj", "{F553EE09-F0F5-4B50-B644-CFA64EE06FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrowheads", "Arrowheads\Arrowheads.csproj", "{1F310940-B462-458E-8134-1C9B049B16A4}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://luisfernandomoraes.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Arrowheads\\Arrowheads.csproj
+		SccProjectName1 = Arrowheads
+		SccLocalPath1 = Arrowheads
+		SccProjectUniqueName2 = WpfApplication\\WpfApplication.csproj
+		SccProjectName2 = WpfApplication
+		SccLocalPath2 = WpfApplication
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F553EE09-F0F5-4B50-B644-CFA64EE06FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F553EE09-F0F5-4B50-B644-CFA64EE06FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F553EE09-F0F5-4B50-B644-CFA64EE06FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F553EE09-F0F5-4B50-B644-CFA64EE06FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F310940-B462-458E-8134-1C9B049B16A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F310940-B462-458E-8134-1C9B049B16A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F310940-B462-458E-8134-1C9B049B16A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F310940-B462-458E-8134-1C9B049B16A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
